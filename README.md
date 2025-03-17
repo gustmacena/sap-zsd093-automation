@@ -93,7 +93,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-*Seu Nome* - [seu.email@example.com](mailto:seu.email@example.com)
+*Seu Nome* - [gustavoaraujomacena@gmail.com](mailto:gustavoaraujomacena@gmail.com)
 
 Projeto: [https://github.com/gustmacena/sap-zsd093-automation](https://github.com/gustmacena/sap-zsd093-automation)
 ```
