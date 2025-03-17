@@ -1,6 +1,3 @@
-Segue um exemplo de README em Markdown que você pode utilizar:
-
-```markdown
 # SAP ZSD093 Automation
 
 Este repositório contém um script em Python para automatizar a extração e proteção da carteira **ZSD093** no SAP. O script conecta-se ao SAP via Scripting, preenche os filtros de data, exporta os dados para um arquivo Excel e fecha o Excel automaticamente. Além disso, ele suporta extrações em lote para múltiplos períodos, exibindo um alerta ao final do processo.
